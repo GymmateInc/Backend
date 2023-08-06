@@ -1,0 +1,8 @@
+__pycache__
+/internal_schemes/__pycache__
+/internal_schemes/dao/__pycache__
+/managers/__pycache__
+/routes/__pycache__
+/schemes/__pycache__
+/utils/__pycache__
+.idea

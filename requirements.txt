@@ -1,0 +1,5 @@
+fastapi
+sqlalchemy
+gunicorn[standard]
+uvicorn[standard]
+pydantic
